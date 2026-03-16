@@ -8,7 +8,7 @@ Hi there! I’m Sylvester Onyango — a curious mind who loves turning raw data 
 
 🔎 My interests include:
 📊 Data analysis and visualization
-🧠 Machine learning and data-driven insights
+🧠 Machine learning and data-driven insights   
 🗺️ Spatial data science and GIS
 🌱 Applying data to real-world challenges like environment, health, and urban development
 
